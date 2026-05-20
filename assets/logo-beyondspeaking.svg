@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 80" fill="none">
+  
+  <g transform="translate(8,20)" fill="currentColor">
+    <path d="M20 0 C20.6 9 21.6 12 20 16 C21.6 14.6 25 14 36 16 C25 18 21.6 17.4 20 16 C21.6 21 21 24 20 36 C19 24 18.4 21 20 16 C18.4 17.4 15 18 4 16 C15 14 18.4 14.6 20 16 C18.4 12 19.4 9 20 0 Z"></path>
+  </g>
+  <text x="64" y="52" font-family="Fraunces, Georgia, serif" font-weight="400" font-size="38" fill="currentColor" letter-spacing="-0.01em">Beyond<tspan font-style="italic" font-weight="300">Speaking</tspan></text>
+</svg>

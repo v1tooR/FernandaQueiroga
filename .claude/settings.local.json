@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -n \"R\\\\$297\\\\|basePrice\\\\|R\\\\$147\\\\|197\\\\|preço\\\\|preco\\\\|price\\\\|invest\" \"c:\\\\Users\\\\Usuario\\\\FernandaQueiroga\\\\index.html\")",
+      "Bash(cp \"c:\\\\Users\\\\Usuario\\\\FernandaQueiroga\\\\index.html\" \"c:\\\\Users\\\\Usuario\\\\FernandaQueiroga\\\\index_old.html\" && echo \"Copiado com sucesso\")",
+      "Bash(grep -n \"basePrice\\\\|bump-was\\\\|De R\\\\$497\\\\|40% de desconto\" \"c:\\\\Users\\\\Usuario\\\\FernandaQueiroga\\\\index_old.html\")",
+      "Bash(start \"\" \"c:\\\\Users\\\\Usuario\\\\FernandaQueiroga\\\\index.html\")"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\Usuario\\FernandaQueiroga"
+    ]
+  }
+}
